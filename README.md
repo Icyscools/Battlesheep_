@@ -14,6 +14,6 @@ __Doubleclick__ to equip item.<br />
 press __J K L__ button to shoot the enemies.
 
 # Team Member
-| <img src="mb/syn.jpg" width="150px" height="150px"> | <img src="mb/pang.jpg" width="150px" height="150px"> | <img src="mb/sow.jpg" width="150px" height="150px"> | <img src="mb/icys.jpg" width="150px" height="150px"> | <img src="mb/kun.jpg" width="150px" height="150px"> |
+| <img src="mb/syn.jpg" width="100px" height="100px"> | <img src="mb/pang.jpg" width="100px" height="100px"> | <img src="mb/sow.jpg" width="100px" height="100px"> | <img src="mb/icys.jpg" width="100px" height="100px"> | <img src="mb/kun.jpg" width="100px" height="100px"> |
 |-----------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|
-| __61070004__ - Krittima Chantachalee                | __61070059__ - Nichapat Kachacheewa                  | __61070097__ - Nunja Sowan                          | __61070200__ - Woramat Ngamkham                      | __61070337__                                        |
+| __61070004__ - Krittima Chantachalee                | __61070059__ - Nichapat Kachacheewa                 | __61070097__ - Nunja Sowan                         | __61070200__ - Woramat Ngamkham                     | __61070337__ - Kun Wongubol                        |
